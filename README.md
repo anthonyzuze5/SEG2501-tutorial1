@@ -6,3 +6,5 @@ Bienvenue dans notre projet !
 Ceci est mon deuxieme commit.
 
 Ligne de test sur feature/test
+
+Vérification finale : tout fonctionne.
